@@ -7,7 +7,7 @@ int main(int argc, char **argv) {
 	char *rufi_qux[] = {"long", "rufi_qux", "0"};
 	char *raph_quz[] = {"long long", "raph_quz", "0"};
 	char *source_corge[] = {"float", "source_corge", "0.0f"};
-	char *fin_grault[] = {"double", "fin_grault", "0.0"};
+	char *finn_grault[] = {"double", "finn_grault", "0.0"};
 	char *ida_garply[] = {"long double", "ida_garply", "0.0"};
 
 	printf(
@@ -30,7 +30,7 @@ int main(int argc, char **argv) {
 		rufi_qux[0], rufi_qux[1], rufi_qux[2],
 		raph_quz[0], raph_quz[1], raph_quz[2],
 		source_corge[0], source_corge[1], source_corge[2],
-		fin_grault[0], fin_grault[1], fin_grault[2],
+		finn_grault[0], finn_grault[1], finn_grault[2],
 		ida_garply[0], ida_garply[1], ida_garply[2]
 	);
 
